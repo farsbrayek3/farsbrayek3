@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Glassmorphism SVG Card Header -->
-  <img src="https://svgshare.com/i/15Qj.svg" width="640" alt="Glass Card" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.45);" />
+  <img src="https://media1.tenor.com/m/JPX5iWzkrfQAAAAd/akudama-drive-anime.gif" width="640" alt="Glass Card" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.45);" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=38BDF8&center=true&vCenter=true&width=440&lines=Hi+I%27m+Fares+Brayek+%F0%9F%91%8B;Security+and+Frontend+Engineer;I+build+secure+and+beautiful+web+tools!" alt="Typing SVG"/>
 </p>
@@ -92,9 +92,8 @@ const aboutMe = {
 <!-- Contact & Social -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-%234285F4.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:faresbrayek2@email.com"><img src="https://img.shields.io/badge/email-%234285F4.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/fares-brayek"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
