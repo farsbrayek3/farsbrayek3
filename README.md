@@ -84,7 +84,11 @@ const aboutMe = {
   <img src="https://github-readme-stats.vercel.app/api?username=farsbrayek3&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farsbrayek3&theme=tokyonight" height="165">
   <br>
-  <img src="https://github.com/farsbrayek3/farsbrayek3/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
 
 ---
